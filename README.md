@@ -10,7 +10,7 @@
     <li>Hockey and Rock Climbing enthusiast</li>
     <li>Air Force Veteran</li>
   </ul>
-  :Hammer_and_wrench: Languages and Frameworks:
+  ###:Hammer_and_wrench: Languages and Frameworks:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
