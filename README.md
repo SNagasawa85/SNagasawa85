@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+</div>
+### Welcome to my GitHub!
+
 
 <!--
 **SNagasawa85/SNagasawa85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
