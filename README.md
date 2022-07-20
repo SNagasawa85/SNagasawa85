@@ -28,10 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <ul>
-  <li> Languages [C#, Python, ect] </li>
-  <li> Frameworks []</li>
-  <li> Database [] </li>
-  <li> Tools [] </li>
+  <li> Languages [C#, Python, Javascript, SQL, HTML5, CSS] </li>
+  <li> Frameworks [Express, Flask, Jijna2, React, ASP.NET Core, Entity Framework, JQuery, Bootstrap]</li>
+  <li> Database [MySQL, MongoDB] </li>
+  <li> Tools [Git,  GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Compass, Trello, Figma, Canva] </li>
 </ul>
 </div>
 
