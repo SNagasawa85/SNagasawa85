@@ -6,9 +6,8 @@
   <h2>About Me:</h2>
   <ul>
     <li>Full Stack Software Developer</li>
-    <li>Current student at Coding Dojo Bootcamp</li>
-    <li>Hockey and Rock Climbing enthusiast</li>
     <li>Air Force Veteran</li>
+    <li>Hockey and Rock Climbing enthusiast</li>
   </ul>
 🛠️ Languages and Frameworks:
   <div>
@@ -28,6 +27,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<ul>
+  <li> Languages [C#, Python, ect] </li>
+  <li> Frameworks []</li>
+  <li> Database [] </li>
+  <li> Tools [] </li>
+</ul>
 </div>
 
 
